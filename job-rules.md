@@ -1,5 +1,7 @@
 Our Job Board platform #job-postings demands that all users read, acknowledge, and abide by the following regulations to ensure a space of absolute professionalism and seriousness for all involved parties.
 
+You may also view our rules in the public repository: [r-webdev/server-rules](https://github.com/r-webdev/server-rules)
+
 # Job Board Rules
 
 1. Job Titles: Descriptive job titles including the job seeker's title (e.g., Frontend Developer, QA Engineer) and type of employment (e.g., Fulltime, Freelance, Contract, Gig) are expected.

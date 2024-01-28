@@ -2,7 +2,7 @@
 
 **Moderators will apply discretion where necessary.** While moderators will try to enforce these rules as closely as we can, no set of rules can cover every eventuality. If necessary, we will take action so that the server remains a friendly place.
 
-You may also view our server rules in the public repository: [r-webdev/server-rules](https://github.com/r-webdev/server-rules)
+You may also view our rules in the public repository: [r-webdev/server-rules](https://github.com/r-webdev/server-rules)
 
 ## Help, my message gets blocked!
 
