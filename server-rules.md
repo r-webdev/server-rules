@@ -16,7 +16,7 @@ Repeated attempts to send blocked messages to circumvent the rules may result in
 
 2. **Follow the Discord Terms of Service (https://discord.com/terms) and Community Guidelines (https://discord.com/guidelines).** Do not discuss or advertise hacking, game cheats, modifications to the Discord app, or piracy, including in your user profile. Violations will be reported to Discord.
 
-3. **Keep discussions limited to the most appropriate channel.** If multiple channels fit the criteria, please pick one. If you're not sure, feel free to ask. Discussions or streaming in voice chat must be relevant to that channel. All job postings must be made in the ⁠⁠job-postings channel using the Freeflow bot,  follow the given ⁠job-rules  and ⁠freelancer-profile-rules. Do not post résumés or CVs. Repeated advertising or soliciting for work outside of ⁠job-postings will result in a ban.
+3. **Keep discussions limited to the most appropriate channel.** If multiple channels fit the criteria, please pick one. If you're not sure, feel free to ask. Discussions or streaming in voice chat must be relevant to that channel. All job postings must be made in the ⁠⁠job-postings channel using the Freeflow bot, follow the given ⁠#job-rules and ⁠#freelancer-profile-rules. Do not post résumés or CVs. Repeated advertising or soliciting for work outside of ⁠job-postings will result in a ban. To get access you need to grab the correct role #Channels & Roles.
 
 4. **Do not post or discuss NSFW content.** Egregious violations will result in an instant ban.
 
