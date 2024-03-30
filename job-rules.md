@@ -4,20 +4,28 @@ You may also view our rules in the public repository: [r-webdev/server-rules](ht
 
 # Job Board Rules
 
-1. Job Titles: Descriptive job titles including the job seeker's title (e.g., Frontend Developer, QA Engineer) and type of employment (e.g., Fulltime, Freelance, Contract, Gig) are expected.
+**Task Based Jobs:**  
+Task Based jobs typically involve small, focused tasks that can be completed within a short timeframe. For example, setting up hosting for a website or fixing styling issues on a webpage are common task based jobs. These tasks are usually relatively simple and straightforward, often requiring just a few hours to complete.
 
-2. Job Descriptions: Clear and concise job descriptions are required, highlighting the job type, detailed skill requirements, and providing a comprehensive overview of the tasks involved. Vagueness should be avoided, and job descriptions should be self-explanatory without requiring follow-up questions.
+**Project-Based Work:**  
+On the other hand, project-based work encompasses larger, more complex undertakings that span over several days, weeks, or even months. This type of work is typically more professional in nature and may involve hiring a freelancer to work on a specific project, such as building a web application or developing a product from scratch. Project-based work often requires a greater level of skill, expertise, and time commitment compared to task based jobs.
 
-3. Compensation: Compensation must align with the job type and meet the following minimum hourly rates in fiat currency:
-   - USD 20
-   - EUR 22
-   - GBP 22
-   - INR 320
+In summary, task based jobs are small, short-term tasks, while project-based work involves larger, longer-term projects that require a higher level of professionalism and expertise.
 
-Compensation should include the currency type (e.g., EUR or USD). While cryptocurrency as a form of compensation is prohibited, alternative options such as stock options may be included as *supplementary* benefits, as long as the minimum rate is satisfied. Unless explicitly specified otherwise, pay periods will be assumed to correspond to a full-time schedule of an 8-hour workday and 40-hour workweek.
+## Task Based Jobs
 
-4. Talent Location: Talent Location must specify the location where the hire will take place with a contract, include the job poster's country, and indicate whether it's remote or on-site (e.g., "Germany, Remote Worldwide," "USA, On-Site New York City," "France, Remote Europe"). Jobs must be lawful in the specified locations.
+Channel: #task-based-jobs
 
-5. Conduct: Conversations between job seekers and job posters must be professional and courteous.
+1. Task Based job postings must have a clear and detailed description, specifying the desired result of the task or project.
+2. Task Based jobs should be limited to small tasks that can be completed within a short timeframe, such as setting up a database on a server. Project-based Task Baseds are not permitted.
+3. The client and freelancer are responsible for communication and creating contracts. This server serves as a medium for advertising the job only.
+4. Task Based jobs must be compensated and clearly labeled with the hourly rate, e.g., 30€/h. Only real-world currency may be used for compensation.
+5. Failure to adhere to the rules will result in the removal of the post, and depending on the severity of the violation, the poster may lose access to the channel.
 
-6. Enforcement: Non-compliant job posts will be promptly removed, and the poster will receive a warning. Repeated violations or misuse of the job posting system will result in a ban from the platform.
+## Project-Based Jobs and Hiring Employees
+
+Channel: #job-postings
+
+1. For project-based job postings or finding new employees, please utilize Verk.
+2. Verk is responsible for facilitating such postings, and all users must abide by its rules and guidelines.
+3. Please get the @Verk Job Seeker role to get notified of new jobs.
