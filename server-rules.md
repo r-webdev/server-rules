@@ -26,7 +26,7 @@ Repeated attempts to send blocked messages to circumvent the rules may result in
 
 7. **Do not reveal any personal information about another user.** In addition, consider what you share about yourself and what consequences sharing personal information may have.
 
-8. **Do not DM users without prior permission.** Make sure you have explicit permission to DM a user before initiating a private conversation.
+8. **Do not DM users without prior permission.** Make sure you have explicit permission to DM a user before initiating a private conversation. Due to high abuse potential we ask that you do not request to DM people in exchange for your help. Solving the issue in public will allow everyone to participate and learn.
 
 9. **Do not use inappropriate usernames.** This includes, but is not limited to: hard-to-tag names, impersonations, advertisements, offensive names, hoisting, and excessively changing your name.
 
